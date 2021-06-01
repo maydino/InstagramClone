@@ -1,6 +1,6 @@
 # InstagramClone
 
- <img src="https://user-images.githubusercontent.com/53323174/120401726-6ad43400-c2f5-11eb-859e-7629edc61de7.png" alt="1" width="300" height="533"/>
+ <img src="https://user-images.githubusercontent.com/53323174/120401726-6ad43400-c2f5-11eb-859e-7629edc61de7.png" alt="1" width="200" height="355"/>
  
  <img src="https://user-images.githubusercontent.com/53323174/120401729-6b6cca80-c2f5-11eb-924d-c12a85130116.png" alt="2" width="300" height="533"/>
  
